@@ -23,14 +23,14 @@
     <tr>
       <!-- <td>
         <div align="center">
-          <a href="https://github.com/Charag111"><img src="https://github.com/DevDivyanshJindal.png" alt="@DevDivyanshJindal" width="52" /></a>
+          <a href="https://github.com/Charag111"><img src="https://github.com/DevDivyanshJindal.png" alt="@Charag111" width="52" /></a>
           <br />
           <a align="center" href="https://github.com/"><b>Charag111</b></a>
         </b>
       </td> -->
       <!-- Profile Views -->
       <td>
-         <a href="https://github.com/ProDivyansh"> <img src="https://komarev.com/ghpvc/?username=prodivyansh&style=for-the-badge&color=brightgreen"> </a>
+         <a href="https://github.com/"Charag111> <img src="https://komarev.com/ghpvc/?username=prodivyansh&style=for-the-badge&color=brightgreen"> </a>
       </td>
     </tr>
   </table>
