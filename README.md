@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/charaggajendra/"><img alt="Instagram" title="instagram" src="https://img.shields.io/badge/-Instagram-405DE6?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://t.me/DevGajendraCharag"><img alt="Telegram" title="telegram" src="https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
   <a href="https://github.com/Charag111?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ProDivyansh?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Charag111?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
   <a href="https://github.com/ProDivyansh"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Charag111?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </p align="center">
 
