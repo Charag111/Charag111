@@ -50,14 +50,14 @@
 <p align="left"> <a href="https://github.com/Charag111"> <img src="https://skillicons.dev/icons?i=vscode,replit,github,java,css,html,js,python"> </a> </p
 ## My Stats:
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=DevDivyanshJindal&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Charag111&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
 ## Activity On GitHub
 
 <p align="center">
-  <a href="https://github.com/ProDivyansh">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DevDivyanshJindal&theme=dark&hide_border=true&stroke=f53b3b"/>
+  <a href="https://github.com/Charag111">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Charag111&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
 
