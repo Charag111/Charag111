@@ -23,7 +23,7 @@
     <tr>
       <!-- <td>
         <div align="center">
-          <a href="https://github.com/Charag111"><img src="https://github.com/DevDivyanshJindal.png" alt="@Charag111" width="52" /></a>
+          <a href="https://github.com/Charag111"><img src="https://github.com/Charag111.png" alt="@Charag111" width="52" /></a>
           <br />
           <a align="center" href="https://github.com/"><b>Charag111</b></a>
         </b>
