@@ -30,7 +30,7 @@
       </td> -->
       <!-- Profile Views -->
       <td>
-         <a href="https://github.com/Charag111"> <img src="https://komarev.com/ghpvc/?username=prodivyansh&style=for-the-badge&color=brightgreen"> </a>
+         <a href="https://github.com/Charag111"> <img src="https://komarev.com/ghpvc/?username=charag111&style=for-the-badge&color=brightgreen"> </a>
       </td>
     </tr>
   </table>
