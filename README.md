@@ -44,14 +44,10 @@
 <a href="https://t.me/DevGajendraCharag"><img alt="Telegram" title="telegram" src="https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 </p>
 
-Support My Projects :
-
-<a href="https://www.buymeacoffee.com/divyanshjiq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 217px !important;" ></a>
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/DevDivyanshJindal"><img src="https://skillicons.dev/icons?i=vscode,replit,github,wordpress,css,html,js,python,nodejs"> </a> </p>
-
+<p align="left"> <a href="https://github.com/Charag111"> <img src="https://skillicons.dev/icons?i=vscode,replit,github,wordpress,css,html,js,python,nodejs"> </a> </p
 ## My Stats:
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=DevDivyanshJindal&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
