@@ -41,7 +41,7 @@
 - 🔭 Working on HTML CSS Js Python etc.
 - 🌱 Learning Js & more
 - 📫 How to contact me:<p>
-<a href="https://t.me/DevDivyansh"><img alt="Telegram" title="telegram" src="https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/DevGajendraCharag"><img alt="Telegram" title="telegram" src="https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 </p>
 
 Support My Projects :
